@@ -4,7 +4,7 @@ Minesraft2 Blooket cheats recently disappeared from GitHub as well as their prof
 
 # How to use
 
-To use these cheats you can use [Bookmarklets]([url](https://github.com/ASuperCoolGuy/Blooket-Cheats-from-Minesraft2/blob/main/README.md#bookmarklets)) or Console.
+To use these cheats you can use Bookmarklets or Console.
 
 ### Bookmarklets
 
